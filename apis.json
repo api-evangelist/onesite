@@ -1,0 +1,66 @@
+{
+    "name": "onesite",
+    "description": "We deliver enterprise social networking solutions to our clients around the world.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1105-onesite.jpg",
+    "tags": [
+        "have api",
+        "social",
+        "website management",
+        "websites"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/onesite\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "onesite",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1105-onesite.jpg",
+            "humanURL": "http:\/\/developer.onesite.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/onesite-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/onesite-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.onesite.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.onesite.com\/go\/view\/ideas"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/onesite"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/onesite"
+        },
+        {
+            "type": "Email",
+            "url": "sales@onesite.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/onesite"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/onesite"
+        }
+    ]
+}
